@@ -12,7 +12,6 @@ Promotional site for furniture store with dynamic interface
 
 - html
 - css
-- javascript
 
 <h2> 🎬 PREVIEW </h2>
 ![](videom.gif)
