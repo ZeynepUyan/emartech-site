@@ -1,6 +1,5 @@
 <h1>EMARTECH</h1>
 
-Promotional site for furniture store with dynamic interface
 
 <h2> 🎲 FEATURES </h2>
 
@@ -12,7 +11,7 @@ Promotional site for furniture store with dynamic interface
 
 - html
 - css
--boostrap
+- bootstrap
 
 <h2> 🎬 PREVIEW </h2>
 ![](videom.gif)
